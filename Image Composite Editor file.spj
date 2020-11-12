@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stitchProject version="2.0" cameraMotion="automatic" computedCameraMotion="rotation3D" projection="spherical">
+  <viewRotation yaw="1.9650378326709954" pitch="-0.11096514665536586" roll="-176.7692221323218" angleUnit="degrees" />
+  <vignetteCorrection redFactor="0.193548381" greenFactor="0.193548381" blueFactor="0.193548381" globalIntensityScale="1" />
+  <sourceImages>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888.jpg">
+      <cameraPose yaw="62.863221623105737" pitch="9.3561244980437888" roll="88.045333508505379" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_01.jpg">
+      <cameraPose yaw="47.401335916878907" pitch="10.444460498805684" roll="86.957769091369414" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_02.jpg">
+      <cameraPose yaw="35.821057602997662" pitch="11.075871312920867" roll="86.308427752061988" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_03.jpg">
+      <cameraPose yaw="21.203960699522785" pitch="10.523698562015477" roll="86.534196068511235" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_04.jpg">
+      <cameraPose yaw="5.0412661431158385" pitch="9.1775617855296137" roll="86.821879988375983" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_05.jpg">
+      <cameraPose yaw="-3.7823606566347716" pitch="8.0926598194561521" roll="85.8805488524973" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_06.jpg">
+      <cameraPose yaw="-41.6823284910759" pitch="6.1015862593897472" roll="83.641182933722718" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_07.jpg">
+      <cameraPose yaw="-30.106738461917978" pitch="8.0526152748915827" roll="85.452327797443473" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_08.jpg">
+      <cameraPose yaw="-18.907754818956381" pitch="7.7847844541169762" roll="85.78234623615" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_09.jpg">
+      <cameraPose yaw="-70.401871858263959" pitch="2.6945994542111156" roll="82.441926177063024" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_10.jpg">
+      <cameraPose yaw="-61.994082075797643" pitch="4.2184191818963086" roll="82.4679487816859" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_11.jpg">
+      <cameraPose yaw="-53.811823549571763" pitch="5.2323522217057992" roll="82.345850912890953" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_12.jpg">
+      <cameraPose yaw="-71.328427476898455" pitch="-30.630253532281014" roll="104.65452772272506" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_13.jpg">
+      <cameraPose yaw="-50.206648942124119" pitch="-29.462265011584929" roll="99.123400793884485" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_14.jpg">
+      <cameraPose yaw="-38.073850299344763" pitch="-30.300690640357402" roll="97.4789857273137" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_15.jpg">
+      <cameraPose yaw="-6.8113801532732747" pitch="-29.555821828130604" roll="97.326588753438529" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_16.jpg">
+      <cameraPose yaw="-13.562683995924434" pitch="-29.381646122040806" roll="97.371471816804629" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_17.jpg">
+      <cameraPose yaw="-25.8363187056236" pitch="-29.205328667378833" roll="97.803167603625013" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_18.jpg">
+      <cameraPose yaw="37.103514619876343" pitch="-26.657769738834958" roll="91.3340449816717" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_19.jpg">
+      <cameraPose yaw="21.179216487570969" pitch="-28.469116276556687" roll="94.367276830747315" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_20.jpg">
+      <cameraPose yaw="4.7452848766442655" pitch="-29.230353615517039" roll="97.494791169732764" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_21.jpg">
+      <cameraPose yaw="67.460986533230439" pitch="30.985907131866668" roll="87.531796919113162" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_22.jpg">
+      <cameraPose yaw="65.769882913691333" pitch="-26.028880910576603" roll="90.313535449116614" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_23.jpg">
+      <cameraPose yaw="50.020503367510607" pitch="-27.101868504987003" roll="90.426784784002862" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_24.jpg">
+      <cameraPose yaw="57.785761621813876" pitch="30.230348821803833" roll="89.339709716447217" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_25.jpg">
+      <cameraPose yaw="39.287211469949369" pitch="28.889337177641604" roll="90.1175055302179" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_26.jpg">
+      <cameraPose yaw="19.720840944515707" pitch="30.066303408590045" roll="90.94789565474467" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_27.jpg">
+      <cameraPose yaw="-31.164089309351468" pitch="27.072325976914648" roll="84.4761094206325" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_28.jpg">
+      <cameraPose yaw="-10.502842905535354" pitch="27.996281293906062" roll="87.288766405659061" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+    <sourceImage filePath="C:\Users\dotor\OneDrive\바탕 화면\새 폴더\KakaoTalk_20201112_145839888_29.jpg">
+      <cameraPose yaw="5.1025773525790523" pitch="29.569488393126772" roll="89.97695888883635" angleUnit="degrees" focalLength="1.6390197974494098" tolerance="4" />
+    </sourceImage>
+  </sourceImages>
+</stitchProject>
